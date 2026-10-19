@@ -23,6 +23,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub Repo stars](https://img.shields.io/github/stars/MAUROCERON/ai-agent-security-mini-audit?style=social) [**AI Agent Risk Self-Check**](https://github.com/MAUROCERON/ai-agent-security-mini-audit): Browser self-check for AI-agent workflow risks (OWASP/NIST mapping)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AgentPostmortem/MCP-audit?style=social) [**MCP-audit**](https://github.com/AgentPostmortem/MCP-audit): Security scanner and linter for MCP servers with SARIF output
 - ![GitHub Repo stars](https://img.shields.io/github/stars/maxugc/crosscheck?style=social) [**crosscheck skillcheck**](https://github.com/maxugc/crosscheck): Scans an agent skill or MCP server for injection, exfiltration, and credential theft before install
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Frank-Masciopinto/ironheights?style=social) [**Ironheights**](https://github.com/Frank-Masciopinto/ironheights): Pre-install security scanner for OpenClaw/ClawHub agent skills (prompt injection, credential theft, tampering)
 
 ### 💣 Prompt Injection
 
@@ -32,20 +33,23 @@ These stay visible for discovery while they gain traction. On periodic review th
 
 - ![GitHub stars](https://img.shields.io/github/stars/NeuralTrust/TrustGate?style=social) [**TrustGate**](https://github.com/NeuralTrust/TrustGate): Generative Application Firewall for GenAI Applications
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GetSHIM/shim-cli?style=social) [**shim-cli**](https://github.com/GetSHIM/shim-cli): Local hooks that mask secrets and PII in coding-agent tool results
+- ![GitHub Repo stars](https://img.shields.io/github/stars/selan-ai/whatileaked?style=social) [**whatileaked**](https://github.com/selan-ai/whatileaked): Scans local Claude Code, Codex and Cursor transcripts for credentials already sent to the model
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AtlasPA/openclaw-security?style=social) [**OpenClaw Security Suite**](https://github.com/AtlasPA/openclaw-security): Defensive security suite for AI agent workspaces (prompt injection, integrity verification, secret scanning, supply chain analysis)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/krishyaid-coder/sluice?style=social) [**Sluice**](https://github.com/krishyaid-coder/sluice): Local MCP proxy that tracks sensitive values and blocks cross-tool data leaks
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jinyounghub/agentic-workflow-guard?style=social) [**agentic-workflow-guard**](https://github.com/jinyounghub/agentic-workflow-guard): CLI and GitHub Action detecting prompt-injection paths in AI-powered GitHub Actions workflows
 - ![GitHub Repo stars](https://img.shields.io/github/stars/knbtz65v2c-pixel/plumblint?style=social) [**Plumblint**](https://github.com/knbtz65v2c-pixel/plumblint): Local zero-dependency prompt-injection detector with published calibration and known bypasses
 - ![GitHub Repo stars](https://img.shields.io/github/stars/markmishaev76/Prompt-Shield?style=social) [**Prompt Shield**](https://github.com/markmishaev76/Prompt-Shield): GitHub Action for detecting indirect prompt injection in CI/CD pipelines. 4-layer defense architecture
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ppcvote/ultraprobe?style=social) [**UltraProbe**](https://github.com/ppcvote/ultraprobe): Deterministic CLI auditing system prompts and agent tool descriptions for missing prompt-injection defenses
 
 ### 🔐 Agent Authorization & Governance
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/onkarbadve/agy-auto?style=social) [**agy-auto**](https://github.com/onkarbadve/agy-auto): PreToolUse permission firewall for CLI agents with deterministic deny and scoped approvals
 - ![GitHub Repo stars](https://img.shields.io/github/stars/dislovelhl/acgs-lite?style=social) [**Acgs-lite**](https://github.com/dislovelhl/acgs-lite): Governance layer blocking unsafe agent actions with audit trails
-- ![GitHub stars](https://img.shields.io/github/stars/MrLightful/scopra?style=social) [**Scopra**](https://github.com/MrLightful/scopra): Business-rule policy SDK for evaluating agent input and output before actions run
+- ![GitHub Repo stars](https://img.shields.io/github/stars/phinq-co/phinq?style=social) [**Phinq**](https://github.com/phinq-co/phinq): Governance proxy with tool-call risk scoring, human approval, and audit log
+- ![GitHub Repo stars](https://img.shields.io/github/stars/vijaym2k6/SteerPlane?style=social) [**SteerPlane**](https://github.com/vijaym2k6/SteerPlane): Runtime guardrails for AI agents: loop detection, cost ceilings, and tool-call allow/deny rules
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BGMLAI/gate.cat?style=social) [**gate.cat**](https://github.com/BGMLAI/gate.cat): Deterministic action veto blocking destructive coding-agent commands before execution
 - ![GitHub Repo stars](https://img.shields.io/github/stars/raintree-technology/policystrata?style=social) [**PolicyStrata**](https://github.com/raintree-technology/policystrata): Deterministic policy regression testing and runtime decision gates for LLM data agents
-- ![GitHub Repo stars](https://img.shields.io/github/stars/phinq-co/phinq?style=social) [**Phinq**](https://github.com/phinq-co/phinq): Governance proxy with tool-call risk scoring, human approval, and audit log
+- ![GitHub stars](https://img.shields.io/github/stars/MrLightful/scopra?style=social) [**Scopra**](https://github.com/MrLightful/scopra): Business-rule policy SDK for evaluating agent input and output before actions run
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hamidmatiny/aegis?style=social) [**AEGIS**](https://github.com/hamidmatiny/aegis): LLM gateway with agent-gate tool permissioning and Ed25519 audit trails
 
 ---
