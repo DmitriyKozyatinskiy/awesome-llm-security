@@ -82,7 +82,6 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/vxcontrol/pentagi?style=social) [**PentAGI**](https://github.com/vxcontrol/pentagi)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?style=social) [**PentestGPT**](https://github.com/GreyDGL/PentestGPT)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/0x4m4/hexstrike-ai?style=social) [**HexStrike AI**](https://github.com/0x4m4/hexstrike-ai): MCP server that lets agents run offensive-security tools for automated pentesting
-- ![GitHub Repo stars](https://img.shields.io/github/stars/aliasrobotics/cai?style=social) [**CAI**](https://github.com/aliasrobotics/cai)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/deepsec?style=social) [**deepsec**](https://github.com/vercel-labs/deepsec): Security harness for codebase vulnerability scanning with coding agents
 - ![GitHub Repo stars](https://img.shields.io/github/stars/SnailSploit/Claude-Red?style=social) [**Claude-Red**](https://github.com/SnailSploit/Claude-Red): Offensive-security skill library that primes Claude for specific attack surfaces
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lintsinghua/DeepAudit?style=social) [**DeepAudit**](https://github.com/lintsinghua/DeepAudit): Multi-agent AI red-team platform with Docker sandbox exploit validation
@@ -106,7 +105,6 @@
 - ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social) [**NeMo Guardrails**](https://github.com/NVIDIA-NeMo/Guardrails): Protects against jailbreak and hallucinations with customizable rulesets
 - ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social) [**PurpleLlama**](https://github.com/facebookresearch/PurpleLlama): Tools to assess and improve LLM security from META
 - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/PyRIT?style=social) [**PyRIT**](https://github.com/microsoft/PyRIT): Python Risk Identification Tool for generative AI
-- ![GitHub stars](https://img.shields.io/github/stars/protectai/llm-guard?style=social) [**LLM-Guard**](https://github.com/protectai/llm-guard): Tool for securing LLM interactions (replaced rebuff)
 - ![GitHub stars](https://img.shields.io/github/stars/whylabs/langkit?style=social) [**LangKit**](https://github.com/whylabs/langkit): Functions for jailbreak detection, prompt injection, and sensitive information detection
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tldrsec/prompt-injection-defenses?style=social) [**Prompt Injection Defenses**](https://github.com/tldrsec/prompt-injection-defenses): Practical and proposed defenses against prompt injection
 - ![GitHub Repo stars](https://img.shields.io/github/stars/secureagentics/Adrian?style=social) [**Adrian**](https://github.com/secureagentics/Adrian): Runtime security for AI agents detecting and blocking prompt injection, malicious tool use, and out-of-remit actions
@@ -149,7 +147,6 @@
 - ![GitHub stars](https://img.shields.io/github/stars/elder-plinius/L1B3RT45?style=social) [**L1B3RT45**](https://github.com/elder-plinius/L1B3RT45/): AI jailbreaking tools
 - ![GitHub stars](https://img.shields.io/github/stars/EasyJailbreak/EasyJailbreak?style=social) [**Easy Jailbreak**](https://github.com/EasyJailbreak/EasyJailbreak): Python framework to generate adversarial jailbreak prompts
 - ![GitHub stars](https://img.shields.io/github/stars/EasyJailbreak/EasyJailbreak?style=social) [**PALLMs (Payloads for Attacking Large Language Models)**](https://github.com/mik0w/pallms)
-- ![GitHub stars](https://img.shields.io/github/stars/lakeraai/pint-benchmark?style=social) [**Lakera PINT Benchmark**](https://github.com/lakeraai/pint-benchmark): Benchmark for prompt injection detection
 - ![GitHub stars](https://img.shields.io/github/stars/pdparchitect/llm-hacking-database?style=social) [**LLM Hacking Database**](https://github.com/pdparchitect/llm-hacking-database): Attacks against LLMs
 - [**Helium Model Worldview Benchmark**](https://huggingface.co/datasets/HeliumTrades/helium-model-worldview-benchmark): 304 paired cue-swap prompts measuring refusal and bias flip consistency across models
 
@@ -230,7 +227,7 @@ This repository is actively maintained as a fork of the original project. It inc
 
 - Main list: projects with broader adoption (typically ≥50★)
 - [Emerging Projects](emerging.md): early-stage projects under 50★
-- [Unavailable Projects](deprecated.md): commercialized or disappeared entries
+- [Unavailable Projects](deprecated.md): commercialized, disappeared, or inactive entries
 - [Research Papers](papers.md)
 
 Contributions are always welcome. Please read the [Contribution Guidelines](CONTRIBUTING.md) before contributing.

@@ -218,7 +218,7 @@ def check_entry(entry: AddedEntry, existing_before: set[str], file_text: str) ->
     stars = int(data.get("stargazers_count") or 0)
     entry.stars = stars
     if data.get("archived"):
-        entry.findings.append(Finding("warn", f"`{badge_slug}` is archived."))
+        entry.findings.append(Finding("warn", f"`{badge_slug}` is archived — belongs under Inactive in `deprecated.md`."))
     if data.get("private"):
         entry.findings.append(Finding("error", f"`{badge_slug}` is private."))
 

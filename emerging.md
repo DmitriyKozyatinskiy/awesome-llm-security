@@ -2,7 +2,7 @@
 
 Early-stage LLM security projects with fewer than **50 GitHub stars**.
 
-These stay visible for discovery while they gain traction. On periodic review they may move to the [main list](README.md) (≥50★), to [Unavailable Projects](deprecated.md) if gone, or be removed if inactive.
+These stay visible for discovery while they gain traction. On periodic review they may move to the [main list](README.md) (≥50★), to [Unavailable Projects](deprecated.md) if gone, or to Inactive there if archived or abandoned.
 
 ---
 
