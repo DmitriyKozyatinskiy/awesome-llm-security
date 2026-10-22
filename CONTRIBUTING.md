@@ -10,12 +10,12 @@ To add, remove, or change something, open a **pull request**. PRs that match thi
 
 | File | When |
 |------|------|
-| [README.md](README.md) | GitHub projects with **≥ 10 stars** (or non-GitHub resources without a star badge) |
-| [emerging.md](emerging.md) | GitHub projects with **&lt; 10 stars** |
+| [README.md](README.md) | GitHub projects with **≥ 50 stars** (or non-GitHub resources without a star badge) |
+| [emerging.md](emerging.md) | GitHub projects with **&lt; 50 stars** |
 | [papers.md](papers.md) | Academic papers |
 | [deprecated.md](deprecated.md) | Do not add here — maintainers move entries when projects disappear or commercialize |
 
-If your project later reaches 10★, open a PR to move it from `emerging.md` to `README.md`.
+If your project later reaches 50★, open a PR to move it from `emerging.md` to `README.md`.
 
 ---
 

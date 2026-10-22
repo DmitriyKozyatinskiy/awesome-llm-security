@@ -18,7 +18,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-STAR_THRESHOLD = 10
+STAR_THRESHOLD = 50
 DESC_SOFT_LIMIT = 120
 DESC_HARD_LIMIT = 180
 
