@@ -170,7 +170,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/PwnzzAI?style=social) [**PwnzzAI**](https://github.com/OWASP/PwnzzAI) OWASP LLM ToP 10 vulnerabilities
 - [**PromptTrace**](https://prompttrace.airedlab.com): Prompt injection and AI security 10 labs + 15-level CTF with real LLMs.
 - [**AI RiskAtlas**](https://riskatlas.principle.sg): Interactive LLM and agent security lab with incident cases and attack simulations
-- [**RansomLeak AI Security**](https://ransomleak.com/exercises/clawdbot-prompt-injection/): Interactive browser exercises for prompt injection, agent goal hijacking and tool misuse, covering the OWASP LLM and Agentic Top 10; free without signup
+- [**RansomLeak AI Security**](https://ransomleak.com/exercises/clawdbot-prompt-injection/): Browser exercise on indirect prompt injection against an AI assistant
 
 ---
 
